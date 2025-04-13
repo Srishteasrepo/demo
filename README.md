@@ -1,2 +1,3 @@
 # demo
-first repo
+My first repo
+-By Srishti Mishra.
